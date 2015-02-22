@@ -1,5 +1,5 @@
 ## Put comments here that give an overall description of what your
-## functions do
+## functions do.
 
 ## Write a short comment describing this function
 
@@ -20,7 +20,7 @@
 
 # These functions assume that the matrix is always invertible.
 
-## ___________________________ ##
+## _____________________________________________________________ ##
 
 ## Function that takes an invertible matrix as an arguement
 makeCacheMatrix <- function(x = matrix()) {
